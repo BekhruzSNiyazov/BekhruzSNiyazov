@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a code jam project
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning C
 - 📫 How to reach me: email me (bekhruzsniyazov@outlook.com)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=BekhruzSNiyazov&show_icons=true&theme=dark)](https://github.com/BekhruzSNiyazov/)
