@@ -6,6 +6,6 @@
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=BekhruzSNiyazov&show_icons=true&theme=dark)](https://github.com/BekhruzSNiyazov/)
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekhruzSNiyazov&theme=gruvbox")]
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekhruzSNiyazov&theme=dark)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BekhruzSNiyazov&show_icons=true&theme=dark&layout=compact&langs_count=8)](https://github.com/BekhruzSNiyazov/)
