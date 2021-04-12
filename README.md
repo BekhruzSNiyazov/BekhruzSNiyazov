@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on eLang programming language
+- 🔭 I’m currently working on [eLang programming language](https://github.com/BekhruzSNiyazov/eLang/)
 - 🌱 I’m currently learning React
 - 📫 How to reach me: email me (bekhruzsniyazov@outlook.com)
 
