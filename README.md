@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [FireChat](https://github.com/BekhruzSNiyazov/FireChat/)
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning how operating systems work
 - 📫 How to reach me: email me (bekhruzsniyazov@outlook.com)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=BekhruzSNiyazov&show_icons=true&theme=dark)](https://github.com/BekhruzSNiyazov)
