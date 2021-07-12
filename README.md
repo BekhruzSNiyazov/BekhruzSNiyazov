@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [eLang](https://github.com/BekhruzSNiyazov/eLang)
+- 🔭 I’m currently working on [eLang](https://github.com/BekhruzSNiyazov/eLang), [FireChat](https://github.com/BekhruzSNiyazov/FireChat) and my [OS project](https://github.com/BekhruzSNiyazov/OSProject)
 - 🌱 I’m currently learning how operating systems work
 - 📫 How to reach me: email me (bekhruzsniyazov@outlook.com)
 
