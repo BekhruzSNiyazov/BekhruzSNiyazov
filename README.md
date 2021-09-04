@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning how operating systems work
 - 📫 How to reach me: email me (bekhruzsniyazov@outlook.com)
 
-<div style="text-align: center;">
+<p align="center">
   
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=BekhruzSNiyazov&show_icons=true&theme=dark)](https://github.com/BekhruzSNiyazov)
 
@@ -14,4 +14,4 @@
 
 ![](https://komarev.com/ghpvc/?username=BekhruzSNiyazov&color=green)
   
-</div>
+</p>
