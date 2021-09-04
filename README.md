@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning how operating systems work
 - 📫 How to reach me: email me (bekhruzsniyazov@outlook.com)
 
+### Stats
 <p align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=BekhruzSNiyazov&show_icons=true&theme=dark">
