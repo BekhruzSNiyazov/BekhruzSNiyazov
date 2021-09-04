@@ -7,11 +7,11 @@
 <p align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=BekhruzSNiyazov&show_icons=true&theme=dark">
-
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekhruzSNiyazov&theme=dark)](https://github.com/BekhruzSNiyazov)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BekhruzSNiyazov&show_icons=true&theme=dark&layout=compact&langs_count=8)](https://github.com/BekhruzSNiyazov)
-
-![](https://komarev.com/ghpvc/?username=BekhruzSNiyazov&color=green)
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BekhruzSNiyazov&theme=dark">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekhruzSNiyazov&show_icons=true&theme=dark&layout=compact&langs_count=8">
+<br>
+<img src="https://komarev.com/ghpvc/?username=BekhruzSNiyazov&color=green">
   
 </p>
