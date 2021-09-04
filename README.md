@@ -6,7 +6,7 @@
 
 <p align="center">
   
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=BekhruzSNiyazov&show_icons=true&theme=dark)](https://github.com/BekhruzSNiyazov)
+<img src="https://github-readme-stats.vercel.app/api?username=BekhruzSNiyazov&show_icons=true&theme=dark">
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekhruzSNiyazov&theme=dark)](https://github.com/BekhruzSNiyazov)
 
